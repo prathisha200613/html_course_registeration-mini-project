@@ -1,4 +1,4 @@
-##html_course_registration-mini-project
+### html_course_registration-mini-project
 
 ## 🚀 How to Run the Project
 
