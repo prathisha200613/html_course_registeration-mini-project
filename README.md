@@ -20,7 +20,8 @@
 - Store form data using backend technologies
 
 ##  🌐Link Demo
- 
+   https://prathisha200613.github.io/html_course_registeration-mini-project/
+
 ## 👤 Author
 
 - **Name:** Prathisha  
